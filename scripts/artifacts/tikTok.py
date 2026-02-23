@@ -1,4 +1,5 @@
 from os.path import dirname, join, basename
+import re
 import sqlite3
 
 from scripts.artifact_report import ArtifactHtmlReport
@@ -35,10 +36,12 @@ def get_tikTok(files_found, report_folder, seeker, wrap_text, timezone_offset):
             #There are sometimes more than one table that contacts are contained in. Need to union them all together
             contacts_tables = [row[0] for row in table_results]
 
-            #create the contact subquery
+            #create the contact subquery — validate table names (alphanumeric only) to prevent injection
             contacts_subqueries = []
             for table in contacts_tables:
-                contacts_subqueries.append(f'SELECT uid, customid, nickname, url1 FROM {table}')
+                if not re.match(r'^[A-Za-z0-9_]+$', table):
+                    continue
+                contacts_subqueries.append(f'SELECT uid, customid, nickname, url1 FROM "{table}"')
 
             contacts_subquery = '''
             UNION ALL
@@ -143,9 +146,18 @@ def get_tikTok(files_found, report_folder, seeker, wrap_text, timezone_offset):
     
     db.close()
 
-__artifacts__ = {
-    "tikTok": (
-        "TikTok",
-        ('*/Application/*/Library/Application Support/ChatFiles/*/db.sqlite*','*AwemeIM.db*'),
-        get_tikTok)
+__artifacts_v2__ = {
+    "tikTok": {
+        "name": "TikTok",
+        "description": "",
+        "author": "",
+        "version": "0.1",
+        "date": "2026-02-22",
+        "requirements": "none",
+        "category": "TikTok",
+        "notes": "",
+        "paths": ('*/Application/*/Library/Application Support/ChatFiles/*/db.sqlite*','*AwemeIM.db*'),
+        "output_types": "all",
+        "artifact_icon": "alert-triangle"
+    }
 }
