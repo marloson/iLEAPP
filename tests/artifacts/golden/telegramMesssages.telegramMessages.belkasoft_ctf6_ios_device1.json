@@ -11,80 +11,730 @@
   ],
   "data": [
     [
-      "2024-02-03 15:22:56+00:00",
+      "2023-11-03 16:14:59+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "😘",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-03 16:15:52+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Will, this new app doesn't have any cute filters. How am I supposed to express my feelings without a sparkle heart filter? 😢",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-03 16:30:15+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
+      "I know, I know, but think of it this way: we get to explore new ways to express ourselves. Plus, I love hearing your voice over messages. It's more … personal.",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:22:56+00:00",
+      "2023-11-03 16:45:53+00:00",
       "Incoming",
-      "BotFather (@BotFather 93372553)",
-      "I can help you create and manage Telegram bots. If you're new to the Bot API, please see the manual.\n\nYou can control me by sending these commands:\n\n/newbot - create a new bot\n/mybots - edit your bots\n\nEdit Bots\n/setname - change a bot's name\n/setdescription - change bot description\n/setabouttext - change bot about info\n/setuserpic - change bot profile photo\n/setcommands - change the list of commands\n/deletebot - delete a bot\n\nBot Settings\n/token - generate authorization token\n/revoke - revoke bot access token\n/setinline - toggle inline mode\n/setinlinegeo - toggle inline location requests\n/setinlinefeedback - change inline feedback settings\n/setjoingroups - can your bot be added to groups?\n/setprivacy - toggle privacy mode in groups\n\nWeb Apps\n/myapps - edit your web apps\n/newapp - create a new web app\n/listapps - get a list of your web apps\n/editapp - edit a web app\n/deleteapp - delete an existing web app\n\nGames\n/mygames - edit your games\n/newgame - create a new game\n/listgames - get a list of your games\n/editgame - edit a game\n/deletegame - delete an existing game",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Hmmm, okay, I'll try it for you. But you owe me a super romantic emoji-less message! 💌",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:22:59+00:00",
+      "2023-11-05 17:05:32+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "I miss seeing your face in those funny hats and glasses filters. This feels too serious. 😔",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-05 17:25:37+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
-      "/newbot",
+      "Let's not let the lack of filters dampen our spirits. I promise to make up for it with more face-to-face time. How about a video call tonight?",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:22:59+00:00",
+      "2023-11-05 17:40:48+00:00",
       "Incoming",
-      "BotFather (@BotFather 93372553)",
-      "Alright, a new bot. How are we going to call it? Please choose a name for your bot.",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Video call? Like, with actual effort to look presentable? 😂 Okay, fine. But I'm doing it in my pajamas!",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:23:10+00:00",
+      "2023-11-05 17:41:59+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "",
+      "",
+      "",
+      "Action: <phoneCall (i=1651967893748001159, dr=2, d=45, vc=1)>",
+      ""
+    ],
+    [
+      "2023-11-07 18:00:54+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Will, I think I liked us better when we were in our \"reelationship\". At least it was fun. This feels like we're an old married couple already!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-07 18:11:58+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
-      "Baker Bot 👨‍🍳",
+      "I get what you're saying, Drew. Let's find a balance. We'll keep the meaningful stuff here and the fun stuff on Insta. Best of both worlds?",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:23:10+00:00",
+      "2023-11-07 18:13:02+00:00",
       "Incoming",
-      "BotFather (@BotFather 93372553)",
-      "Good. Now let's choose a username for your bot. It must end in `bot`. Like this, for example: TetrisBot or tetris_bot.",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Deal! 🌍💞 But you still owe me a bunch of romantic gestures for this experiment.",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:24:26+00:00",
+      "2023-11-08 14:13:03+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Yo William, Chase says you’re the print master. We’re cooking up a scheme and need the right gear. You in?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:23:15+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
-      "prochefbakerbot",
+      "Good morning, Max. If by 'print master' you mean an expert in high-tech printing setups, then yes, I'm your man. What exactly are you planning?",
       "",
       "",
       "",
       ""
     ],
     [
-      "2024-02-03 15:24:26+00:00",
+      "2023-11-08 14:25:18+00:00",
       "Incoming",
-      "BotFather (@BotFather 93372553)",
-      "Done! Congratulations on your new bot. You will find it at t.me/prochefbakerbot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n6906797754:AAGMY4k5rHjZowgyjtlt84SvbrqbjBsO6jU\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\n\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Planning to make money, the kind that spends nice, if you catch my drift. But uh we wanna do it right. Fancy and quiet.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:28:21+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Understood. For a project of this nature, you'll need advanced printing equipment, specific inks, and high-quality paper, not to mention security measures for the operation and digital designs. I can compile a list of required tech and materials.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:30:30+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Yeah, that stuff. Chase said you’d know exactly what to get. Can you put together a list for us? We wanna start getting things rolling ASAP.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:35:34+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "I'll prepare a comprehensive list of equipment, materials, and software needed for a state-of-the-art printing operation. I'll also include suppliers that can provide these without drawing attention. But that wont be quick. Give me a few weeks.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:52:36+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "One more thing, Max. Having the right equipment and materials is crucial, but so is having a skilled designer who can create the necessary designs for the printing. Do you have someone for this?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 14:58:40+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Designer? Uh, hadn’t thought that far ahead. Figured we’d find someone along the way.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 15:00:43+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "I suspected as much. It’s not just anyone who can design convincing banknotes. I have someone in mind, I’ll reach out to them.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 15:02:06+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Sure thing, William. Send it over when it’s ready. We’re counting on you to make this thing work. No pressure, ha!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 15:03:49+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "You'll have it. Ensuring the operation's success is as much my priority as it is yours. Let's proceed carefully and smartly.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:00:12+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Drew, I actually have a favor to ask. Remember when you mentioned wanting to work on more exciting projects? Well, I might have something for you.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:14:17+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Oh? 😊 Tell me more! I love when you get all mysterious and serious. It's sexy.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:16:23+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "It's a ... special project.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:16:49+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Needs a talented graphic designer who can create something ... unique.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:17:08+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Not exactly legal, but it's highly creative. Interested?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:23:40+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Illegal? Will, that sounds a bit scary. 😳 But exciting! What am I designing? Tell me it's not something boring like fake IDs.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:24:47+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Far from boring",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:25:03+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Think of it as creating art that's too good to be true. Literally. You in?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:33:00+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Ooh, like a modern-day Bonnie and Clyde, but with art! 🎨💕 Okay, I'm in. But you're explaining everything over dinner. And you're buying.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-11-08 19:35:35+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "You've got yourself a deal, Drew. Dinner and all the details. Thanks, babe. You won't regret it.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-03 01:24:01+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Max, I've locked down our tech specs. We're getting the high-end devise, not your average printer. This baby's got the precision we need for the fine details. I'll send its details over separately. For the paper, we're looking at Duraflex Cotton Blend 220gsm; we need about 10,000 sheets to kick things off. It mimics the real deal's feel and durability. On the ink front, we're stocking up on 20 liters of VersaMark UV Security Ink, 10 liters of Microtrace Stealth Ink, 15 of InfraRed Invisible Ink, Optically Variable Ink (OVI) - 10 liters and ThermoChromic Liquid Crystal Ink - 5 liters.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-03 01:27:05+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Moreover I've snagged us a designer, Drew. She's gonna make our stuff look legit.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-03 01:28:11+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "That's a whole lotta stuff, Will. Print-whatever and fancy paper and ink, got it. This Drew, she knows we ain’t exactly runnin' a legal print shop, right?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-03 01:29:14+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Absolutely, Max. It is the gold standard for what we're doing — it's all about subtlety and sophistication. Drew is in the loop, fully aware of the... creative nature of our enterprise. She’s on board and ready to push the boundaries of design to make our project a success.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-03 01:44:21+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Sounds like you’ve got it all dialed in. Just hope this gear does what you say it can. And Drew, she better make those designs pop. Alright, let's get this show on the road and see if we can make these numbers work.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-08 15:03:13+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Hey bae, just finished the design! 🎉 Sending it over now. Hope it's what you wanted!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-08 15:03:42+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "",
+      "",
+      "",
+      "File: Test Run.psd (MIME: image/vnd.adobe.photoshop, ID: telegram-cloud-document-1-4918039163703395619)",
+      ""
+    ],
+    [
+      "2023-12-08 15:04:34+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "",
+      "",
+      "",
+      "Image: ID telegram-cloud-photo-size-1-4918039164159634733-m",
+      "mock_hash_telegram-cloud-photo-size-1-4918039164159634733-m"
+    ],
+    [
+      "2023-12-08 15:09:27+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Received, Drew. I'll check the details and security features. Accuracy is crucial.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-08 15:10:51+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Can't wait to hear what you think! Let me know if any adjustments are needed. 💕",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-12 14:12:34+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Hey William, Chase came through with the gear. But we’re kinda scratching our heads here. Got any genius spots for setting up?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-12 14:14:19+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Indeed, I've anticipated our need for a secure location. I have just the spot on mind. It’s secluded and has adequate space for our operation. Plus, it’s has sufficient power line for our equipment. Sending you the address in a secret chat.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-12 14:15:27+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "A garage? That’ll do. Uncle won’t go nosing around, will he?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-12 14:18:32+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "I’ve managed that risk. He believes it’s for a “project”. I'll ensure our operation remains undisturbed. We can commence setup immediately. I've already planned the layout for optimal workflow given the specifications of our equipment. I’ll be waiting for the delivery tomorrow at noon.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-12 14:19:35+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Sounds like you got it all figured out. Cool, cool. I’ll let Chase know where to send the stuff.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:05:48+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Max, got the design from Drew. It’s solid. We should have the first run ready before Christmas.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:07:51+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Nice. So it’s all good on her end?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:08:55+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Yes, just a few tweaks needed. The technical aspects are mostly in line with what we discussed. I’m starting the print tests soon.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:09:29+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Cool, cool. So, we’re talking actual cash by Christmas?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:09:52+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "That’s the plan. I’ll manage the adjustments and monitor the initial prints closely.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-20 19:10:24+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Alright. Hit me up if there’s stuff to do on my end.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 00:40:19+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "",
+      "",
+      "",
+      "Image: ID telegram-cloud-photo-size-1-4918039164159634734-x",
+      "mock_hash_telegram-cloud-photo-size-1-4918039164159634734-x"
+    ],
+    [
+      "2023-12-25 02:03:06+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Drew, the new modified print is off the press, and it's flawless. Your design truly brought it to life. You've outdone yourself.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:05:46+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Eeeek, really?! 🌸 That's super duper exciting! Can I see a pic? I'm literally bouncing right now!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:09:15+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "",
+      "",
+      "",
+      "Image: ID telegram-cloud-photo-size-1-4918039164159634735-y",
+      "mock_hash_telegram-cloud-photo-size-1-4918039164159634735-y"
+    ],
+    [
+      "2023-12-25 02:12:53+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Look, this success... it's got me thinking about our honeymoon in May babe. Imagine the places we could go, the things we could see.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:14:59+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Oh, William, it's absolutely perfect! 😍 And talking honeymoons already? You're making me blush! Where were you thinking?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:22:20+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "This is all so magical, William! I'm so happy I could twirl! Love you to the moon and back!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:22:32+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "And I you, Drew 💞",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:35:07+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Have you just deleted everything on our May vacation plans?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 02:37:34+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Yes, not to jinx it 🥰",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 04:06:13+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Max, the first print run's complete, and it's impressive. Time to see the results firsthand. Let's meet at the printing site.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 04:08:24+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Awesome! That spot with all the gear? How about tomorrow at 8 AM? And I need to bring a bag or something?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 04:11:27+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Sure, works for me. No need for a bag this time. It's just a few notes for review. We’ll discuss the quality and next steps while we’re there.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-25 04:12:03+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Cool, cool. I’ll be there. Curious to see what we cooked up.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-26 07:11:36+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Yo, hit the fair with our fresh prints. Smooth as butter, no one blinked. We're onto something big here.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-26 07:14:38+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "That's solid, Max. Our work's holding up then. Got to make sure every batch is just as tight.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-26 07:15:01+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Yeah, felt like the real deal in my hand. Thinking we should push the envelope a bit more next time.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-26 07:15:34+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Let's not rush. Keeping things cool and careful is how we'll succed.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2023-12-26 07:21:47+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Cool, cool. Just pumped about it all.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-02 10:26:53+00:00",
+      "Incoming",
+      "the.boss (@Sm00thOperat0r 37173443476)",
+      "Hey William, got us a new chat on Element for the big brain moves. It’s all hush, all tech. Hit up that invite I sent. Let’s get to schemin’.",
       "",
       "",
       "",
@@ -271,6 +921,136 @@
       ""
     ],
     [
+      "2024-01-16 21:20:25+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "Hey buddy, let’s establish a channel.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:20:41+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "o/",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:20:57+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "No messaging apps can be trusted, believe me.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:21:51+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "Have you got the Shortcut I sent to you?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:28:07+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Yes, Chase, but no idea how to approach to its use.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:28:51+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "Just press Share on any text. And punch in the secret key we agreed on in the box that pops up.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:37:03+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "addaf04dc94ddaf04ddfc980661fc91e7caac9f0dadac94df1664d0c",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:39:08+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "Yes mate!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:49:51+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "c4da65207cc2dac97c1fc37c66937dc9c3aa7d7d1e",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:51:33+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "7f7c6425c94e4dc94ef0c9673af37ec94ec2d97c934d661f4dc94df1664dc964dac97c1f651ec9aaf0dac94df14ef0c9f0da20aa93dac920f1661f1fda65dfc92266c1c94ef0c9f008dad94d4e20666525c9c3aa4dc9aec9081f7c64c964f1664dc9ae54c2c94d6665084e1f94c966c37caa4ddfc97e7caac9644e6565c94df1661f08c9c2dac965664dda93df",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:52:16+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Got it mate",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:52:35+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "😡😡😡",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-16 21:53:10+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "f47c4dc94e4dc9c2664dda26c9507c93931ec9377c93c94df1664d",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
       "2024-01-23 21:39:39+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
@@ -341,6 +1121,136 @@
       ""
     ],
     [
+      "2024-01-23 23:22:52+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Dear, for our next step, we’re introducing magnetic ink into the design. I need you to simulate a layer in the Photoshop file where this ink would be applied. Specifically, around the numerical value on the bill.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-23 23:24:56+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Wow, magnetic ink? That’s super cool! 💖 But I’m a bit confused. How do I simulate something that’s invisible?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-23 23:30:03+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "It’s more about the placement. The ink itself won’t be visible in the design but think of your layer as a guide for where we'll apply the ink in real life. Focus on the areas like the bill's serial numbers and the edges of the portrait. It’s essential for the bills to be recognized by ATM sensors.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-23 23:32:07+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Okay, got it! So, I’m adding a “magic” layer. This is so exciting, like adding a secret code! 🌈 I’ll make sure those areas are highlighted for you.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-23 23:32:30+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Exactly, you've got it.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 18:09:54+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "c5da4d54f0c9937c4d664ddac94df1dac908da1edfc9c67d7dc92066d94e4d6665c965da4d4dda93c9f4c94d7cc94e4df0c9da1f7ddf",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 18:11:23+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "44fc93777a93770dfca8a8515151",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 18:12:11+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "b1fc547793ce3b3b7726ce7b77548f2293777a1150772226771a773bfcfc507a11a477b9fcbd77ce3f22f8933b2aec",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 18:12:56+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "c622a411221a11506648e87b77c622a4597ea87afc11",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 21:23:26+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "Hey babe! Just finished up with the new version of our design, now with that special 'magnetic' layer you asked for. Sending it over now! 💌✨",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 21:24:42+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Just not here please babe!",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 21:33:50+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Received, Drew. I'll review the updates and ensure they align with our technical needs. Thanks for the quick turnaround.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-25 21:35:26+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "No problem at all! Just happy to help. Let me know if there's anything else you need! 💕",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
       "2024-01-28 19:26:22+00:00",
       "Incoming",
       "Mr C (@locknload771 37123392845)",
@@ -395,6 +1305,506 @@
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
       "I don’t know, this batch is ready. Expanding our operations... let’s leave this to Max.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-30 19:15:03+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Drew, the test batch with your latest design was a complete success in a real-world scenario. Thank you for your dedication. Love you.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-01-30 19:18:25+00:00",
+      "Incoming",
+      "Dee 🌸 (@diddyflowers 36891850763)",
+      "WOW, Billy bae!!! 🎉 That's the best news ever!!! I'm so, so happy to hear it! Just let me know what's next. I'm all in and super excited to keep helping! 💖✨",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:22:56+00:00",
+      "Incoming",
+      "BotFather (@BotFather 93372553)",
+      "I can help you create and manage Telegram bots. If you're new to the Bot API, please see the manual.\n\nYou can control me by sending these commands:\n\n/newbot - create a new bot\n/mybots - edit your bots\n\nEdit Bots\n/setname - change a bot's name\n/setdescription - change bot description\n/setabouttext - change bot about info\n/setuserpic - change bot profile photo\n/setcommands - change the list of commands\n/deletebot - delete a bot\n\nBot Settings\n/token - generate authorization token\n/revoke - revoke bot access token\n/setinline - toggle inline mode\n/setinlinegeo - toggle inline location requests\n/setinlinefeedback - change inline feedback settings\n/setjoingroups - can your bot be added to groups?\n/setprivacy - toggle privacy mode in groups\n\nWeb Apps\n/myapps - edit your web apps\n/newapp - create a new web app\n/listapps - get a list of your web apps\n/editapp - edit a web app\n/deleteapp - delete an existing web app\n\nGames\n/mygames - edit your games\n/newgame - create a new game\n/listgames - get a list of your games\n/editgame - edit a game\n/deletegame - delete an existing game",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:22:56+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:22:59+00:00",
+      "Incoming",
+      "BotFather (@BotFather 93372553)",
+      "Alright, a new bot. How are we going to call it? Please choose a name for your bot.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:22:59+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/newbot",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:23:10+00:00",
+      "Incoming",
+      "BotFather (@BotFather 93372553)",
+      "Good. Now let's choose a username for your bot. It must end in `bot`. Like this, for example: TetrisBot or tetris_bot.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:23:10+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "Baker Bot 👨‍🍳",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:24:26+00:00",
+      "Incoming",
+      "BotFather (@BotFather 93372553)",
+      "Done! Congratulations on your new bot. You will find it at t.me/prochefbakerbot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.\n\nUse this token to access the HTTP API:\n6906797754:AAGMY4k5rHjZowgyjtlt84SvbrqbjBsO6jU\nKeep your token secure and store it safely, it can be used by anyone to control your bot.\n\nFor a description of the Bot API, see this page: https://core.telegram.org/bots/api",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:24:26+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "prochefbakerbot",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 15:25:37+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 17:46:08+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "",
+      "",
+      "",
+      "Action: <groupCreated (title=B A K E R Y ♨️)>",
+      ""
+    ],
+    [
+      "2024-02-03 17:46:10+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "",
+      "",
+      "",
+      "Action: <photoUpdated (image={'imageId_raw': b'\\x00\\x00\\x00\\x00X\\xac1\\x1b[\\x0bHD', 'representations': [{'width': 160, 'height': 160, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'a', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}, {'width': 320, 'height': 320, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'b', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}, {'width': 640, 'height': 640, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'c', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}], 'videoRepresentations': [], 'immediateThumbnailData': b'\\x01((\\xd2\\x14P)\\t\\x0b\\x8c\\xf78\\xac\\n\\x16\\x94\\nG;y\\x03\"\\x98\\xf3\\xed\\x19\\xf2\\xd8\\x0f~(\\xd8vl\\x90\\xd1Q,\\xac[\\x06>\\xbd9\\xa2\\x8d\\xc2\\xd6$\\x15Z\\xfd$*\\x8f\\x119\\\\\\xf0*\\xc6q\\x9fj\\xab}4\\x88\\x88\\xd1\\x9cs\\xcd0[\\x94\\xfc\\xfb\\x95\\x1c\\x96\\xc0\\xef\\x8a\\x90\\xdfNF\\xd2\\x07#\\xd2\\x94^\\xc8G1\\xc6\\xc0\\xd3\\x96\\xf9\\xb7\\x03\\xe4.\\xe1\\xc6G\\xa5-\\x0b\\xd7\\xb0\\xc1q4\\x8c09\\xc6\\x06\\x05\\x15aoX\\x0cy\\x18\\xf4\\xe7\\xa5\\x14h\\x16}\\x89\"\\x95\\xbc\\xc62:\\xed#\\x81R~\\xe9\\xb8\\x18?J(\\xabFa\\xf6H\\xd8d\\xc6\\x9f\\x88\\xa8\\x84\\x10g\\xfdP\\xfc\\r\\x14UXW$[x\\x89\\xe2!\\xf9\\xd1E\\x14\\xf9Ps3', 'reference': {'_v': 0, 'i': 4920195078828436568, 'h': -9089811873639742503, 'fr': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb', '@type': 985457250}, 'partialReference': None, 'flags': 0, 'imageId': (0, 4920195078828436568)})>",
+      ""
+    ],
+    [
+      "2024-02-03 17:46:17+00:00",
+      "Outgoing",
+      "B A K E R Y ♨️ (10593409031)",
+      "",
+      "",
+      "",
+      "Action: <channelMigratedFromGroup (title=B A K E R Y ♨️, groupId=8442896002)>",
+      ""
+    ],
+    [
+      "2024-02-03 17:46:17+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "",
+      "",
+      "",
+      "Action: <groupMigratedToChannel (channelId=10593409031)>",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:02+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:02+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:05+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:05+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:12+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:12+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "D",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:16+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 18:49:16+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:44+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:45+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:46+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:46+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:47+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:47+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "D",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:48+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:04:49+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-03 21:05:23+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Something went wrong 😢",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:12+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:13+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:15+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:15+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:16+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:16+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "D",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:17+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 14:33:18+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-06 20:16:49+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "They're hot and steaming fresh out the oven, enjoy 😋",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:12+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:13+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:15+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:16+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:21+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:21+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "B",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:22+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:32:22+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-07 19:53:56+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "They're hot and steaming fresh out the oven, enjoy 😋",
       "",
       "",
       "",
@@ -561,6 +1971,136 @@
       ""
     ],
     [
+      "2024-02-20 03:53:02+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:02+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:04+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Recipe number 2 not found",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:04+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "2",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:07+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Wrong recipe number. Please send me a number",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:07+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:10+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:10+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:14+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "B",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:15+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:16+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 03:53:16+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-02-20 05:24:43+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "They're hot and steaming fresh out the oven, enjoy 😋",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
       "2024-02-27 03:47:37+00:00",
       "Incoming",
       "Mr C (@locknload771 37123392845)",
@@ -625,6 +2165,56 @@
       "Incoming",
       "the.boss (@Sm00thOperat0r 37173443476)",
       "Heads up, gang! 🚨🚨🚨 Just got our Panama account rolling 🚨🚨🚨 Mr Big C is in charge",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-02 04:18:21+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "2fce2a77262293ce51775dfc9322937afc115177c2e7e7ce11e377f822e77a93223b773bce9393cebd779c51",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-02 04:22:56+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "a9a62f0081ed12650012caed12650012ca",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-02 04:23:40+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "440b00ed4ca670edeea62f2f24ed82002f89edb800ed82a6b800ed8900f924dc4182edf9a6edb84cede7000b4ceda65e2fed3d44ed241212a6702ff956",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-02 04:25:00+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "6ca670ed9b00f9ed9b0ba66fed737082f9eda62f00edb8a6b8002ff96f",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-02 04:47:46+00:00",
+      "Incoming",
+      "Mr C (@locknload771 37123392845)",
+      "1965dc82eda62f00eddc82ed77a60bed4ca670ed1d000b82a62f2441414c6fedbb242fcaed4f24b80003ed320ba6a6ca0089ed2bdce7000bedbb242fca6fed441212a6702ff9ed4f24b80003ed32a62f827041f9dc2feeeda2000be7dc120082edfc2f126fed441212a6702ff9ed4f70b89b000b03ed8c159e27b039c24bd45d6feda27efc9719ed32a6890003ed322b07bb3d444b3d6fedbb242fcaed4489890b00828203edb05dedc677778265a60b00edbb41e78981ed3d242f24b824ed32dcf94c81ed3d242f24b824",
       "",
       "",
       "",
@@ -791,6 +2381,96 @@
       ""
     ],
     [
+      "2024-03-19 18:53:46+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:46+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:47+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:48+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:50+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:50+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "D",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:53+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-19 18:53:53+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "70",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-03-20 09:29:23+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "They're hot and steaming fresh out the oven, enjoy 😋",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
       "2024-03-22 19:09:46+00:00",
       "Incoming",
       "the.boss (@Sm00thOperat0r 37173443476)",
@@ -831,6 +2511,86 @@
       ""
     ],
     [
+      "2024-04-01 11:22:30+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Hello, send me the recipe number:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:30+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "/start",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:31+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "1",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:32+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "What is the desired cake size? 🎂",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:33+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Number of cakes:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:33+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "D",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:38+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Ready to bake?",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-01 11:22:38+00:00",
+      "Outgoing",
+      "billy megakilley (@billthemegakill 37203642159)",
+      "160",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
       "2024-04-01 20:11:32+00:00",
       "Incoming",
       "Mr C (@locknload771 37123392845)",
@@ -845,6 +2605,16 @@
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
       "Alright, I'm on it. I'll go check what went wrong with the cash No promises, but I'll get to the bottom of this.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024-04-02 22:44:30+00:00",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "They're hot and steaming fresh out the oven, enjoy 😋",
       "",
       "",
       "",
@@ -931,710 +2701,10 @@
       ""
     ],
     [
-      "2024-02-03 17:46:08+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "",
-      "",
-      "",
-      "Action: <groupCreated (title=B A K E R Y ♨️)>",
-      ""
-    ],
-    [
-      "2024-02-03 17:46:10+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "",
-      "",
-      "",
-      "Action: <photoUpdated (image={'imageId_raw': b'\\x00\\x00\\x00\\x00X\\xac1\\x1b[\\x0bHD', 'representations': [{'width': 160, 'height': 160, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'a', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}, {'width': 320, 'height': 320, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'b', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}, {'width': 640, 'height': 640, 'resource': {'datacenterId': 1, 'photoId': 4920195078828436568, 'accessHash': -9089811873639742503, 'sizeSpec': 'c', 'size': None, 'fileReference': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb'}, 'progressiveSizes': []}], 'videoRepresentations': [], 'immediateThumbnailData': b'\\x01((\\xd2\\x14P)\\t\\x0b\\x8c\\xf78\\xac\\n\\x16\\x94\\nG;y\\x03\"\\x98\\xf3\\xed\\x19\\xf2\\xd8\\x0f~(\\xd8vl\\x90\\xd1Q,\\xac[\\x06>\\xbd9\\xa2\\x8d\\xc2\\xd6$\\x15Z\\xfd$*\\x8f\\x119\\\\\\xf0*\\xc6q\\x9fj\\xab}4\\x88\\x88\\xd1\\x9cs\\xcd0[\\x94\\xfc\\xfb\\x95\\x1c\\x96\\xc0\\xef\\x8a\\x90\\xdfNF\\xd2\\x07#\\xd2\\x94^\\xc8G1\\xc6\\xc0\\xd3\\x96\\xf9\\xb7\\x03\\xe4.\\xe1\\xc6G\\xa5-\\x0b\\xd7\\xb0\\xc1q4\\x8c09\\xc6\\x06\\x05\\x15aoX\\x0cy\\x18\\xf4\\xe7\\xa5\\x14h\\x16}\\x89\"\\x95\\xbc\\xc62:\\xed#\\x81R~\\xe9\\xb8\\x18?J(\\xabFa\\xf6H\\xd8d\\xc6\\x9f\\x88\\xa8\\x84\\x10g\\xfdP\\xfc\\r\\x14UXW$[x\\x89\\xe2!\\xf9\\xd1E\\x14\\xf9Ps3', 'reference': {'_v': 0, 'i': 4920195078828436568, 'h': -9089811873639742503, 'fr': b'\\x03\\x00\\x00\\x00@f\\x0eA\\x0c\\x8a\\xdaP\\xe7\\xea\\xf5[&\\x9f\\x8a \\xcc\\xa8\\xaa\\xd8\\xeb', '@type': 985457250}, 'partialReference': None, 'flags': 0, 'imageId': (0, 4920195078828436568)})>",
-      ""
-    ],
-    [
-      "2024-02-03 17:46:17+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "",
-      "",
-      "",
-      "Action: <groupMigratedToChannel (channelId=10593409031)>",
-      ""
-    ],
-    [
-      "2024-02-03 17:46:17+00:00",
-      "Outgoing",
-      "B A K E R Y ♨️ (10593409031)",
-      "",
-      "",
-      "",
-      "Action: <channelMigratedFromGroup (title=B A K E R Y ♨️, groupId=8442896002)>",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:02+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:02+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:05+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:05+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:12+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "D",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:12+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:16+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "10",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 18:49:16+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:44+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:45+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:46+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:46+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:47+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "D",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:47+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:48+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "10",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:04:49+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 21:05:23+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Something went wrong 😢",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:12+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:13+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:15+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:15+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:16+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "D",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:16+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:17+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "10",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 14:33:18+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-06 20:16:49+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "They're hot and steaming fresh out the oven, enjoy 😋",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:12+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:13+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:15+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:16+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:21+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "B",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:21+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:22+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:32:22+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-07 19:53:56+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "They're hot and steaming fresh out the oven, enjoy 😋",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:02+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:02+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:04+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "2",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:04+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Recipe number 2 not found",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:07+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:07+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Wrong recipe number. Please send me a number",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:10+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:10+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:14+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "B",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:15+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:16+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 03:53:16+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-20 05:24:43+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "They're hot and steaming fresh out the oven, enjoy 😋",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:46+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:46+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:47+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:48+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:50+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "D",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:50+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:53+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "70",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-19 18:53:53+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-20 09:29:23+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "They're hot and steaming fresh out the oven, enjoy 😋",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:30+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:30+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Hello, send me the recipe number:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:31+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "1",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:32+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "What is the desired cake size? 🎂",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:33+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "D",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:33+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Number of cakes:",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:38+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "160",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-01 11:22:38+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Ready to bake?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-04-02 22:44:30+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "They're hot and steaming fresh out the oven, enjoy 😋",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
       "2024-04-05 03:07:43+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "sad",
+      "Incoming",
+      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
+      "Exception has happened:\nTraceback (most recent call last):\n  File \"Y:\\baker\\bot.py\", line 98, in destroy_encrypted_container\n    os.remove(cryptocontainer)\nPermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Users/phorger/Documents/de...",
       "",
       "",
       "",
@@ -1652,1079 +2722,9 @@
     ],
     [
       "2024-04-05 03:07:43+00:00",
-      "Incoming",
-      "Baker Bot 👨‍🍳 (@prochefbakerbot 36971568826)",
-      "Exception has happened:\nTraceback (most recent call last):\n  File \"Y:\\baker\\bot.py\", line 98, in destroy_encrypted_container\n    os.remove(cryptocontainer)\nPermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/Users/phorger/Documents/de...",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-03 16:14:59+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "😘",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-03 16:15:52+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Will, this new app doesn't have any cute filters. How am I supposed to express my feelings without a sparkle heart filter? 😢",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-03 16:30:15+00:00",
       "Outgoing",
       "billy megakilley (@billthemegakill 37203642159)",
-      "I know, I know, but think of it this way: we get to explore new ways to express ourselves. Plus, I love hearing your voice over messages. It's more … personal.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-03 16:45:53+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Hmmm, okay, I'll try it for you. But you owe me a super romantic emoji-less message! 💌",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-05 17:05:32+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "I miss seeing your face in those funny hats and glasses filters. This feels too serious. 😔",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-05 17:25:37+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Let's not let the lack of filters dampen our spirits. I promise to make up for it with more face-to-face time. How about a video call tonight?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-05 17:40:48+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Video call? Like, with actual effort to look presentable? 😂 Okay, fine. But I'm doing it in my pajamas!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-05 17:41:59+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "",
-      "",
-      "",
-      "Action: <phoneCall (i=1651967893748001159, dr=2, d=45, vc=1)>",
-      ""
-    ],
-    [
-      "2023-11-07 18:00:54+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Will, I think I liked us better when we were in our \"reelationship\". At least it was fun. This feels like we're an old married couple already!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-07 18:11:58+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "I get what you're saying, Drew. Let's find a balance. We'll keep the meaningful stuff here and the fun stuff on Insta. Best of both worlds?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-07 18:13:02+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Deal! 🌍💞 But you still owe me a bunch of romantic gestures for this experiment.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:00:12+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Drew, I actually have a favor to ask. Remember when you mentioned wanting to work on more exciting projects? Well, I might have something for you.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:14:17+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Oh? 😊 Tell me more! I love when you get all mysterious and serious. It's sexy.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:16:23+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "It's a ... special project.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:16:49+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Needs a talented graphic designer who can create something ... unique.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:17:08+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Not exactly legal, but it's highly creative. Interested?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:23:40+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Illegal? Will, that sounds a bit scary. 😳 But exciting! What am I designing? Tell me it's not something boring like fake IDs.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:24:47+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Far from boring",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:25:03+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Think of it as creating art that's too good to be true. Literally. You in?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:33:00+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Ooh, like a modern-day Bonnie and Clyde, but with art! 🎨💕 Okay, I'm in. But you're explaining everything over dinner. And you're buying.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 19:35:35+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "You've got yourself a deal, Drew. Dinner and all the details. Thanks, babe. You won't regret it.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-08 15:03:13+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Hey bae, just finished the design! 🎉 Sending it over now. Hope it's what you wanted!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-08 15:03:42+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "",
-      "",
-      "",
-      "File: Test Run.psd (MIME: image/vnd.adobe.photoshop, ID: telegram-cloud-document-1-4918039163703395619)",
-      ""
-    ],
-    [
-      "2023-12-08 15:04:34+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "",
-      "",
-      "",
-      "Image: ID telegram-cloud-photo-size-1-4918039164159634733-m",
-      "mock_hash_telegram-cloud-photo-size-1-4918039164159634733-m"
-    ],
-    [
-      "2023-12-08 15:09:27+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Received, Drew. I'll check the details and security features. Accuracy is crucial.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-08 15:10:51+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Can't wait to hear what you think! Let me know if any adjustments are needed. 💕",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 00:40:19+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "",
-      "",
-      "",
-      "Image: ID telegram-cloud-photo-size-1-4918039164159634734-x",
-      "mock_hash_telegram-cloud-photo-size-1-4918039164159634734-x"
-    ],
-    [
-      "2023-12-25 02:03:06+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Drew, the new modified print is off the press, and it's flawless. Your design truly brought it to life. You've outdone yourself.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:05:46+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Eeeek, really?! 🌸 That's super duper exciting! Can I see a pic? I'm literally bouncing right now!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:09:15+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "",
-      "",
-      "",
-      "Image: ID telegram-cloud-photo-size-1-4918039164159634735-y",
-      "mock_hash_telegram-cloud-photo-size-1-4918039164159634735-y"
-    ],
-    [
-      "2023-12-25 02:12:53+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Look, this success... it's got me thinking about our honeymoon in May babe. Imagine the places we could go, the things we could see.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:14:59+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Oh, William, it's absolutely perfect! 😍 And talking honeymoons already? You're making me blush! Where were you thinking?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:22:20+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "This is all so magical, William! I'm so happy I could twirl! Love you to the moon and back!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:22:32+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "And I you, Drew 💞",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:35:07+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Have you just deleted everything on our May vacation plans?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 02:37:34+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Yes, not to jinx it 🥰",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-23 23:22:52+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Dear, for our next step, we’re introducing magnetic ink into the design. I need you to simulate a layer in the Photoshop file where this ink would be applied. Specifically, around the numerical value on the bill.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-23 23:24:56+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Wow, magnetic ink? That’s super cool! 💖 But I’m a bit confused. How do I simulate something that’s invisible?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-23 23:30:03+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "It’s more about the placement. The ink itself won’t be visible in the design but think of your layer as a guide for where we'll apply the ink in real life. Focus on the areas like the bill's serial numbers and the edges of the portrait. It’s essential for the bills to be recognized by ATM sensors.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-23 23:32:07+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Okay, got it! So, I’m adding a “magic” layer. This is so exciting, like adding a secret code! 🌈 I’ll make sure those areas are highlighted for you.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-23 23:32:30+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Exactly, you've got it.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 21:23:26+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "Hey babe! Just finished up with the new version of our design, now with that special 'magnetic' layer you asked for. Sending it over now! 💌✨",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 21:24:42+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Just not here please babe!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 21:33:50+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Received, Drew. I'll review the updates and ensure they align with our technical needs. Thanks for the quick turnaround.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 21:35:26+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "No problem at all! Just happy to help. Let me know if there's anything else you need! 💕",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-30 19:15:03+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Drew, the test batch with your latest design was a complete success in a real-world scenario. Thank you for your dedication. Love you.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-30 19:18:25+00:00",
-      "Incoming",
-      "Dee 🌸 (@diddyflowers 36891850763)",
-      "WOW, Billy bae!!! 🎉 That's the best news ever!!! I'm so, so happy to hear it! Just let me know what's next. I'm all in and super excited to keep helping! 💖✨",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-02-03 15:25:37+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "/start",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:20:25+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "Hey buddy, let’s establish a channel.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:20:41+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "o/",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:20:57+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "No messaging apps can be trusted, believe me.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:21:51+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "Have you got the Shortcut I sent to you?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:28:07+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Yes, Chase, but no idea how to approach to its use.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:28:51+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "Just press Share on any text. And punch in the secret key we agreed on in the box that pops up.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:37:03+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "addaf04dc94ddaf04ddfc980661fc91e7caac9f0dadac94df1664d0c",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:39:08+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "Yes mate!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:49:51+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "c4da65207cc2dac97c1fc37c66937dc9c3aa7d7d1e",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:51:33+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "7f7c6425c94e4dc94ef0c9673af37ec94ec2d97c934d661f4dc94df1664dc964dac97c1f651ec9aaf0dac94df14ef0c9f0da20aa93dac920f1661f1fda65dfc92266c1c94ef0c9f008dad94d4e20666525c9c3aa4dc9aec9081f7c64c964f1664dc9ae54c2c94d6665084e1f94c966c37caa4ddfc97e7caac9644e6565c94df1661f08c9c2dac965664dda93df",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:52:16+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Got it mate",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:52:35+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "😡😡😡",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-16 21:53:10+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "f47c4dc94e4dc9c2664dda26c9507c93931ec9377c93c94df1664d",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 18:09:54+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "c5da4d54f0c9937c4d664ddac94df1dac908da1edfc9c67d7dc92066d94e4d6665c965da4d4dda93c9f4c94d7cc94e4df0c9da1f7ddf",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 18:11:23+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "44fc93777a93770dfca8a8515151",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 18:12:11+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "b1fc547793ce3b3b7726ce7b77548f2293777a1150772226771a773bfcfc507a11a477b9fcbd77ce3f22f8933b2aec",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-25 18:12:56+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "c622a411221a11506648e87b77c622a4597ea87afc11",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-02 04:18:21+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "2fce2a77262293ce51775dfc9322937afc115177c2e7e7ce11e377f822e77a93223b773bce9393cebd779c51",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-02 04:22:56+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "a9a62f0081ed12650012caed12650012ca",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-02 04:23:40+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "440b00ed4ca670edeea62f2f24ed82002f89edb800ed82a6b800ed8900f924dc4182edf9a6edb84cede7000b4ceda65e2fed3d44ed241212a6702ff956",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-02 04:25:00+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "6ca670ed9b00f9ed9b0ba66fed737082f9eda62f00edb8a6b8002ff96f",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-03-02 04:47:46+00:00",
-      "Incoming",
-      "Mr C (@locknload771 37123392845)",
-      "1965dc82eda62f00eddc82ed77a60bed4ca670ed1d000b82a62f2441414c6fedbb242fcaed4f24b80003ed320ba6a6ca0089ed2bdce7000bedbb242fca6fed441212a6702ff9ed4f24b80003ed32a62f827041f9dc2feeeda2000be7dc120082edfc2f126fed441212a6702ff9ed4f70b89b000b03ed8c159e27b039c24bd45d6feda27efc9719ed32a6890003ed322b07bb3d444b3d6fedbb242fcaed4489890b00828203edb05dedc677778265a60b00edbb41e78981ed3d242f24b824ed32dcf94c81ed3d242f24b824",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:13:03+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Yo William, Chase says you’re the print master. We’re cooking up a scheme and need the right gear. You in?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:23:15+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Good morning, Max. If by 'print master' you mean an expert in high-tech printing setups, then yes, I'm your man. What exactly are you planning?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:25:18+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Planning to make money, the kind that spends nice, if you catch my drift. But uh we wanna do it right. Fancy and quiet.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:28:21+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Understood. For a project of this nature, you'll need advanced printing equipment, specific inks, and high-quality paper, not to mention security measures for the operation and digital designs. I can compile a list of required tech and materials.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:30:30+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Yeah, that stuff. Chase said you’d know exactly what to get. Can you put together a list for us? We wanna start getting things rolling ASAP.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:35:34+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "I'll prepare a comprehensive list of equipment, materials, and software needed for a state-of-the-art printing operation. I'll also include suppliers that can provide these without drawing attention. But that wont be quick. Give me a few weeks.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:52:36+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "One more thing, Max. Having the right equipment and materials is crucial, but so is having a skilled designer who can create the necessary designs for the printing. Do you have someone for this?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 14:58:40+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Designer? Uh, hadn’t thought that far ahead. Figured we’d find someone along the way.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 15:00:43+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "I suspected as much. It’s not just anyone who can design convincing banknotes. I have someone in mind, I’ll reach out to them.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 15:02:06+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Sure thing, William. Send it over when it’s ready. We’re counting on you to make this thing work. No pressure, ha!",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-11-08 15:03:49+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "You'll have it. Ensuring the operation's success is as much my priority as it is yours. Let's proceed carefully and smartly.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-03 01:24:01+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Max, I've locked down our tech specs. We're getting the high-end devise, not your average printer. This baby's got the precision we need for the fine details. I'll send its details over separately. For the paper, we're looking at Duraflex Cotton Blend 220gsm; we need about 10,000 sheets to kick things off. It mimics the real deal's feel and durability. On the ink front, we're stocking up on 20 liters of VersaMark UV Security Ink, 10 liters of Microtrace Stealth Ink, 15 of InfraRed Invisible Ink, Optically Variable Ink (OVI) - 10 liters and ThermoChromic Liquid Crystal Ink - 5 liters.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-03 01:27:05+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Moreover I've snagged us a designer, Drew. She's gonna make our stuff look legit.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-03 01:28:11+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "That's a whole lotta stuff, Will. Print-whatever and fancy paper and ink, got it. This Drew, she knows we ain’t exactly runnin' a legal print shop, right?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-03 01:29:14+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Absolutely, Max. It is the gold standard for what we're doing — it's all about subtlety and sophistication. Drew is in the loop, fully aware of the... creative nature of our enterprise. She’s on board and ready to push the boundaries of design to make our project a success.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-03 01:44:21+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Sounds like you’ve got it all dialed in. Just hope this gear does what you say it can. And Drew, she better make those designs pop. Alright, let's get this show on the road and see if we can make these numbers work.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-12 14:12:34+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Hey William, Chase came through with the gear. But we’re kinda scratching our heads here. Got any genius spots for setting up?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-12 14:14:19+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Indeed, I've anticipated our need for a secure location. I have just the spot on mind. It’s secluded and has adequate space for our operation. Plus, it’s has sufficient power line for our equipment. Sending you the address in a secret chat.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-12 14:15:27+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "A garage? That’ll do. Uncle won’t go nosing around, will he?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-12 14:18:32+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "I’ve managed that risk. He believes it’s for a “project”. I'll ensure our operation remains undisturbed. We can commence setup immediately. I've already planned the layout for optimal workflow given the specifications of our equipment. I’ll be waiting for the delivery tomorrow at noon.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-12 14:19:35+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Sounds like you got it all figured out. Cool, cool. I’ll let Chase know where to send the stuff.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:05:48+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Max, got the design from Drew. It’s solid. We should have the first run ready before Christmas.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:07:51+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Nice. So it’s all good on her end?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:08:55+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Yes, just a few tweaks needed. The technical aspects are mostly in line with what we discussed. I’m starting the print tests soon.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:09:29+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Cool, cool. So, we’re talking actual cash by Christmas?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:09:52+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "That’s the plan. I’ll manage the adjustments and monitor the initial prints closely.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-20 19:10:24+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Alright. Hit me up if there’s stuff to do on my end.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 04:06:13+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Max, the first print run's complete, and it's impressive. Time to see the results firsthand. Let's meet at the printing site.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 04:08:24+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Awesome! That spot with all the gear? How about tomorrow at 8 AM? And I need to bring a bag or something?",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 04:11:27+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Sure, works for me. No need for a bag this time. It's just a few notes for review. We’ll discuss the quality and next steps while we’re there.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-25 04:12:03+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Cool, cool. I’ll be there. Curious to see what we cooked up.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-26 07:11:36+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Yo, hit the fair with our fresh prints. Smooth as butter, no one blinked. We're onto something big here.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-26 07:14:38+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "That's solid, Max. Our work's holding up then. Got to make sure every batch is just as tight.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-26 07:15:01+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Yeah, felt like the real deal in my hand. Thinking we should push the envelope a bit more next time.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-26 07:15:34+00:00",
-      "Outgoing",
-      "billy megakilley (@billthemegakill 37203642159)",
-      "Let's not rush. Keeping things cool and careful is how we'll succed.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2023-12-26 07:21:47+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Cool, cool. Just pumped about it all.",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "2024-01-02 10:26:53+00:00",
-      "Incoming",
-      "the.boss (@Sm00thOperat0r 37173443476)",
-      "Hey William, got us a new chat on Element for the big brain moves. It’s all hush, all tech. Hit up that invite I sent. Let’s get to schemin’.",
+      "sad",
       "",
       "",
       "",

@@ -6,43 +6,13 @@
   ],
   "data": [
     [
-      "InternationalRoamingEDGE",
-      "True",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "EnhancedLQMTrafficClassRegistration",
-      "True",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "EnhancedLQMLinkQualityFingerPrintRegistration",
-      "True",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "LastKnownServingMnc",
-      "260",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "PhoneServices",
-      "{'Version': 1}",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "PersonalWallet",
-      "{'8901260971148676693': {'SimPin': {'InitialActiveState': False}, 'Capabilities': {'SimCallAndDataCurrentlySupported': True, 'SimCallAndDataSupported': True, 'NetworkSupportsVoPS': True}, 'CarrierEntitlements': {'lastGoodImsi': '310260974867669', 'kEntitlementsSelfRegistrationUpdateImsi': '310260974867669', 'kEntitlementsSelfRegistrationUpdateImei': '356763089830742'}, 'RegistrationController': {'lastKnownIMSFeatureState': 2}, 'VoiceMail': {'VVMSubscribed': False}, 'SimDeactivationInfo': {'LastRegisteredNetworkPlmn': '310260', 'EntitlementAuthSuccessStatus': True}, 'SMSControllerWalletDomain': {'TPMR': 41}, 'phonebook': {'CopiedSIMPhoneNumber': '+19195794674', 'PNRPhoneNumber': '+19195794674'}, 'PhoneServices': {'VoLTENetworkSeen': True}}}",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "EnhancedLQMLinkStateRegistration",
-      "True",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
       "EnableLTEAfterUpgrade",
       "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "EnhancedLQMDataStallRegistration",
+      "False",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
@@ -56,6 +26,31 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
+      "EnhancedLQMLinkQualityFingerPrintRegistration",
+      "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "EnhancedLQMLinkStateRegistration",
+      "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "EnhancedLQMTrafficClassRegistration",
+      "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "InternationalRoamingEDGE",
+      "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "LASDNextUpdate",
+      "2023-05-28 16:31:43.875157",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
       "LastKnownICCID",
       "8901260971148676693",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
@@ -66,8 +61,8 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "LASDNextUpdate",
-      "2023-05-28 16:31:43.875157",
+      "LastKnownServingMnc",
+      "260",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
@@ -76,19 +71,29 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
+      "PersonalWallet",
+      "{'8901260971148676693': {'CarrierEntitlements': {'phone-number-prefetched': True}}}",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "PersonalWallet",
+      "{'8901260971148676693': {'SimPin': {'InitialActiveState': False}, 'Capabilities': {'SimCallAndDataCurrentlySupported': True, 'SimCallAndDataSupported': True, 'NetworkSupportsVoPS': True}, 'CarrierEntitlements': {'lastGoodImsi': '310260974867669', 'kEntitlementsSelfRegistrationUpdateImsi': '310260974867669', 'kEntitlementsSelfRegistrationUpdateImei': '356763089830742'}, 'RegistrationController': {'lastKnownIMSFeatureState': 2}, 'VoiceMail': {'VVMSubscribed': False}, 'SimDeactivationInfo': {'LastRegisteredNetworkPlmn': '310260', 'EntitlementAuthSuccessStatus': True}, 'SMSControllerWalletDomain': {'TPMR': 41}, 'phonebook': {'CopiedSIMPhoneNumber': '+19195794674', 'PNRPhoneNumber': '+19195794674'}, 'PhoneServices': {'VoLTENetworkSeen': True}}}",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
       "PhoneNumber",
       "19195794674",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "com.apple.carrier_1",
-      "310260_GID1-4276",
+      "PhoneServices",
+      "{'Version': 1}",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "EnhancedLQMDataStallRegistration",
-      "False",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+      "ReportedPhoneNumber",
+      "19195794674",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
       "ReportedSubscriberIdentity",
@@ -96,18 +101,23 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "ne_config_state",
-      "False",
+      "activation_5g_support",
+      "1:kFalse",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "meid",
-      "",
+      "activation_gemini_support",
+      "1:kFalse",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "kOperatorRoamingInfo_Subscriber_Mnc",
-      "260",
+      "com.apple.carrier_1",
+      "310260_GID1-4276",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "imei_svns",
+      "[{'second': '42', 'first': '1:kOne'}]",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
@@ -116,28 +126,8 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "kCarrierSpaceLastRefreshStatusKey",
-      "6000",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kLastUploadTimestamp",
-      "2023-05-17 12:27:53.245617",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "user_default_voice_slot",
-      "1:kOne",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kOperatorRoamingInfo_Subscriber_CarrierBundleID",
-      "com.apple.TMobile_MVNO_US",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kPostponementActivationPushTokenRegRetryCount",
-      "0",
+      "is_activation_policy_locked",
+      "1:kFalse",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
@@ -146,22 +136,77 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "imei_svns",
-      "[{'second': '42', 'first': '1:kOne'}]",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kPostponementActivationPushToken",
-      "63e1ed7b80e827aefdfaa4e2025ce32976d5868a649b6bc8dcddee2b50aa98c1",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
       "kCKUploadCount",
       "1",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
+      "kCKUploadDate",
+      "19462",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kCarrierSpaceLastRefreshStatusKey",
+      "6000",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kEnableIMSISwitchConfiguration",
+      "{'EnableIMSISwitch': False}",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kGRIFileConfiguration",
+      "{'kGRIBundleDir': '/System/Library/Carrier Bundles/iPhone/Default.bundle', 'kGRIFileName': 'global_setting_B.gri', 'kGRIFileBundleVersion': '49.0', 'kGRIFileVersion': '8.1.1', 'kGRIFileBundleID': 'com.apple.Default'}",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kLastUploadTimestamp",
+      "2023-05-17 12:27:53.245617",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kNextCarrierBundleUpdateCheck",
+      "2023-05-21 08:47:43.694897",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_3GPP_CurrentOperatorBundleId",
+      "com.apple.TMobile_US",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_3GPP_NetworkMcc",
+      "310",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
       "kOperatorRoamingInfo_3GPP_NetworkMnc",
+      "260",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_3GPP_RAT",
+      "7",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_3GPP_Roaming",
+      "True",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_Subscriber_CarrierBundleID",
+      "com.apple.TMobile_MVNO_US",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_Subscriber_Mcc",
+      "310",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "kOperatorRoamingInfo_Subscriber_Mnc",
       "260",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
@@ -171,48 +216,13 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "activation_gemini_support",
-      "1:kFalse",
+      "kPostponementActivationPushToken",
+      "63e1ed7b80e827aefdfaa4e2025ce32976d5868a649b6bc8dcddee2b50aa98c1",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "kOperatorRoamingInfo_3GPP_RAT",
-      "7",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kOperatorRoamingInfo_3GPP_NetworkMcc",
-      "310",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kEnableIMSISwitchConfiguration",
-      "{'EnableIMSISwitch': False}",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kNextCarrierBundleUpdateCheck",
-      "2023-05-21 08:47:43.694897",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "PersonalWallet",
-      "{'8901260971148676693': {'CarrierEntitlements': {'phone-number-prefetched': True}}}",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kOperatorRoamingInfo_3GPP_CurrentOperatorBundleId",
-      "com.apple.TMobile_US",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kPostponementTicketLock",
-      "False",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kGRIFileConfiguration",
-      "{'kGRIBundleDir': '/System/Library/Carrier Bundles/iPhone/Default.bundle', 'kGRIFileName': 'global_setting_B.gri', 'kGRIFileBundleVersion': '49.0', 'kGRIFileVersion': '8.1.1', 'kGRIFileBundleID': 'com.apple.Default'}",
+      "kPostponementActivationPushTokenRegRetryCount",
+      "0",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
@@ -221,38 +231,28 @@
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "kOperatorRoamingInfo_Subscriber_Mcc",
-      "310",
+      "kPostponementTicketLock",
+      "False",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "is_activation_policy_locked",
-      "1:kFalse",
+      "meid",
+      "",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
-      "ReportedPhoneNumber",
-      "19195794674",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kOperatorRoamingInfo_3GPP_Roaming",
-      "True",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "kCKUploadDate",
-      "19462",
-      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
-    ],
-    [
-      "activation_5g_support",
-      "1:kFalse",
+      "ne_config_state",
+      "False",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ],
     [
       "subscriber_account_ids",
       "[{'second': '8901260971148676693', 'first': '1:kOne'}]",
+      "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
+    ],
+    [
+      "user_default_voice_slot",
+      "1:kOne",
       "<ROOT>/filesystem2/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist"
     ]
   ]

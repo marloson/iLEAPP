@@ -6,29 +6,19 @@
   ],
   "data": [
     [
-      "ThisIs DFIRThree",
-      "thisisdfirthree@gmail.com",
-      ""
-    ],
-    [
-      "This Is DFIR Two",
+      "Apple Inc.",
       "",
-      "9198887386"
-    ],
-    [
-      "This Is DFIR Two",
-      "thisisdfirtwo@gmail.com",
-      ""
-    ],
-    [
-      "Josh Hickman",
-      "",
-      "9195790479"
+      "1800MYAPPLE"
     ],
     [
       "Josh Hickman",
       "",
       "9193912507"
+    ],
+    [
+      "Josh Hickman",
+      "",
+      "9195790479"
     ],
     [
       "Josh Hickman",
@@ -41,14 +31,24 @@
       "+19192084530"
     ],
     [
+      "This Is DFIR Two",
+      "",
+      "9198887386"
+    ],
+    [
+      "This Is DFIR Two",
+      "thisisdfirtwo@gmail.com",
+      ""
+    ],
+    [
+      "ThisIs DFIRThree",
+      "thisisdfirthree@gmail.com",
+      ""
+    ],
+    [
       "Thom De'Fer",
       "",
       "9198027080"
-    ],
-    [
-      "Apple Inc.",
-      "",
-      "1800MYAPPLE"
     ]
   ]
 }

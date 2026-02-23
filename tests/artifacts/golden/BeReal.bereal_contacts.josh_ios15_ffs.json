@@ -14,15 +14,15 @@
   "data": [
     [
       "None",
-      "De'Fer",
-      "",
-      "Thom",
       "",
       "",
+      "Liz",
       "",
-      "+19198027080",
+      "",
+      "",
+      "+19192084530",
       "disk-bereal-RelationshipsContactsManager-contact/BFF2C013D3A049A79B7E56DF3A4BC444",
-      "[object][0]"
+      "[object][3]"
     ],
     [
       "None",
@@ -38,6 +38,18 @@
     ],
     [
       "None",
+      "De'Fer",
+      "",
+      "Thom",
+      "",
+      "",
+      "",
+      "+19198027080",
+      "disk-bereal-RelationshipsContactsManager-contact/BFF2C013D3A049A79B7E56DF3A4BC444",
+      "[object][0]"
+    ],
+    [
+      "None",
       "Hickman",
       "",
       "Josh",
@@ -47,18 +59,6 @@
       "+19195790479\n+19193912507",
       "disk-bereal-RelationshipsContactsManager-contact/BFF2C013D3A049A79B7E56DF3A4BC444",
       "[object][2]"
-    ],
-    [
-      "None",
-      "",
-      "",
-      "Liz",
-      "",
-      "",
-      "",
-      "+19192084530",
-      "disk-bereal-RelationshipsContactsManager-contact/BFF2C013D3A049A79B7E56DF3A4BC444",
-      "[object][3]"
     ]
   ]
 }

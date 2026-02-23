@@ -6,22 +6,12 @@
   ],
   "data": [
     [
-      "EnhancedLQMLinkQualityFingerPrintRegistration",
-      "True",
-      "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
-      "EnhancedLQMDataTransferTimeRegistration",
-      "True",
-      "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
-    ],
-    [
       "EnhancedLQMDataStallRegistration",
       "False",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "EnhancedLQMLinkStateRegistration",
+      "EnhancedLQMDataTransferTimeRegistration",
       "True",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
@@ -31,13 +21,18 @@
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "LteDbHasDeploymentTypeKey",
-      "1",
+      "EnhancedLQMLinkQualityFingerPrintRegistration",
+      "True",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "lastKnownOSVersion",
-      "16.3",
+      "EnhancedLQMLinkStateRegistration",
+      "True",
+      "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
+      "EnhancedLQMTrafficClassRegistration",
+      "True",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
@@ -46,13 +41,18 @@
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
+      "LteDbHasDeploymentTypeKey",
+      "1",
+      "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
+    ],
+    [
       "PhoneServices",
       "{'Version': 1}",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ],
     [
-      "EnhancedLQMTrafficClassRegistration",
-      "True",
+      "lastKnownOSVersion",
+      "16.3",
       "<ROOT>/private/var/wireless/Library/Preferences/com.apple.commcenter.plist"
     ]
   ]
